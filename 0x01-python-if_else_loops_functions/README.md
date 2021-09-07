@@ -1,0 +1,1 @@
+This directory shows how the conditional statement "if else" works in different situations
